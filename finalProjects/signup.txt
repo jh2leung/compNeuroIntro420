@@ -4,13 +4,13 @@ Instructions: Look at some of the links in the individual project subfolders to 
 
 IACLangRead
 1. Sebastien Lauzon
-2. 
+2. Justin Leung
 3. Amanda Assi
 4. Sayana Izmailova
 5.
 
 Agents
-1.Justin Leung
+1.
 2.Martin Turpin
 3.
 4.
